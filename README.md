@@ -35,7 +35,7 @@ reflection section reviewing two initial misclassifications after validation aga
 - Incident documentation
 - Analytical self-review
 
-[View Report (PDF)](Phishing Email Analysis Report_Nandana_KS_Gowda.pdf)
+[View Report (PDF)](phishing-analysis-report-nandana.pdf)
 
 ---
 
