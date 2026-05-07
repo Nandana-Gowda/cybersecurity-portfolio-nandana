@@ -19,7 +19,7 @@ This repository showcases my hands-on cybersecurity learning, including lab inve
 **Status:** Complete  
 **Analysis completed:** March 2023  
 **Report prepared:** May 2026
-**Program:** ANZ Cyber Security Management Virtual Experience — Forage  
+**Program:** ANZ Cyber Security Management Virtual Experience - Forage  
 
 A structured analysis of seven email samples using SOC triage methodology.
 Each email reviewed for phishing indicators, assigned a severity rating,
